@@ -18,11 +18,11 @@ function divide(a, b) {
   x--;
   return x;
 
-parseInt('10', 100) {
-  return 100
+function makeInt(n) {
+  return parseInt(n, 10)
 }
 
-parseInt('10', 100)
+function makeInt(10)
 
 parseInt('10.5', 100)
 
