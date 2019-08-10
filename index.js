@@ -17,3 +17,13 @@ function divide(a, b) {
   var n = 15;
   x--;
   return x;
+  
+parseInt('10', 100)
+  return 10
+
+parseInt('10', 100)
+
+parseInt('10.5', 100)
+
+
+
