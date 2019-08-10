@@ -17,6 +17,6 @@ function increment() {
 }
 function decrement() {
   var n = 15;
-  ++x;
+  x--;
   return x;
 }
