@@ -18,9 +18,16 @@ function divide(a, b) {
   x--;
   return x;
 
-parseInt('10', 100)
-  return 10
+parseInt('10', 100) {
+  return 100
+}
 
 parseInt('10', 100)
 
 parseInt('10.5', 100)
+
+parseFloat('100.5', 1.5) {
+  returns 67
+}
+
+parseFloat('100.5', 2)
