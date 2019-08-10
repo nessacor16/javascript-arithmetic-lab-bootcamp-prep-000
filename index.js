@@ -17,4 +17,3 @@ function divide(a, b) {
   var n = 15;
   x--;
   return x;
-
